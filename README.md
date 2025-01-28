@@ -8,7 +8,7 @@
 
 ---
 
-💻 **I'm in constant learning** and aim to grow as a technology professional. Check out my [portfolio](https://mbdomingues.github.io/Portifolio/#projects) to see my projects and progress!
+💻 **I'm in constant learning** and aim to grow as a technology professional. Check out my [portfolio](https://mbdomingues.github.io/Portifolio/) to see my projects and progress!
 
 📂 Feel free to explore my repositories to find examples of practical exercises, personal projects, and tools I’m developing as part of my journey.
 
