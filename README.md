@@ -13,7 +13,7 @@
     Systems Analysis and Development student passionate about technology and innovation. With a strong drive to learn and grow, I seek challenges that allow me to put my technical and creative skills into practice. I thrive in team environments, am proactive, and always strive to find efficient solutions to complex problems. My goal is to contribute to innovative projects while continuously improving my knowledge in programming, software development, and emerging technologies.
 </p>
 
-### visit my linkedin to know more about me 😉
+### Visit my LinkedIn to know more about me 😉
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-barboza-domingues/)
 
 <!--Skilss-->
