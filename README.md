@@ -54,7 +54,5 @@
 
   <br>
   
-  --- 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBDomingues&layout=compact&hide_border=true&title_color=1F736A&text_color=F2A341&bg_color=0d1117"/> 
 </div>
   
