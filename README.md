@@ -23,10 +23,11 @@
     <tr>
       <td align="center" width="50%">
         <h3><strong>👨‍💻 Languages</strong></h3>
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
       </td>
       <td align="center" width="50%">
         <h3><strong>🎨 Frontend</strong></h3>
@@ -38,12 +39,21 @@
     </tr>
     <tr>
       <td align="center" width="50%">
-        <h3><strong>⚙️ Backend & Database</strong></h3>
+        <h3><strong>⚙️ Backend & Frameworks</strong></h3>
+        <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+        <img src="https://img.shields.io/badge/asp.net-%23512bd4.svg?style=for-the-badge&logo=.net&logoColor=white"/>
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
         <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
       </td>
       <td align="center" width="50%">
+        <h3><strong>🗄️ Database & ORM</strong></h3>
+        <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/EF_Core-512bd4?style=for-the-badge&logo=.net&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
         <h3><strong>🚀 DevOps & Tools</strong></h3>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -51,8 +61,6 @@
       </td>
     </tr>
   </table>
-
   <br>
-  
 </div>
   
