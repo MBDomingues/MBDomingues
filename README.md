@@ -1,4 +1,3 @@
-<!--banner-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=D7DC00&width=435&lines=Hi%2C+I%E2%80%99m+Mateus+Barboza)](https://git.io/typing-svg)
 
 ---
@@ -6,12 +5,6 @@
 <img width="40%"  src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/dev-working_rounded.gif"/>
 </div>
 
-<!--About me-->
-## About Me 😁
-
-<p align="left">
-    Systems Analysis and Development student passionate about technology and innovation. With a strong drive to learn and grow, I seek challenges that allow me to put my technical and creative skills into practice. I thrive in team environments, am proactive, and always strive to find efficient solutions to complex problems. My goal is to contribute to innovative projects while continuously improving my knowledge in programming, software development, and emerging technologies.
-</p>
 
 ### Visit my LinkedIn to know more about me 😉
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-barboza-domingues/)
@@ -58,6 +51,7 @@
       <td align="center" colspan="2">
         <h3><strong>🚀 DevOps & Tools</strong></h3>
         <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
         <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
       </td>
@@ -65,4 +59,3 @@
   </table>
   <br>
 </div>
-  
