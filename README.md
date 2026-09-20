@@ -59,3 +59,18 @@
   </table>
   <br>
 </div>
+
+## Metrics 📊
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MBDomingues&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MBDomingues&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MBDomingues&theme=github_dark" width="49%"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=MBDomingues&hide_border=true&background=0D1117&stroke=D7DC00&ring=D7DC00&fire=D7DC00&currStreakNum=D7DC00&sideNums=C9D1D9&currStreakLabel=D7DC00&sideLabels=C9D1D9&dates=8B949E" width="60%"/>
+
+</div>
